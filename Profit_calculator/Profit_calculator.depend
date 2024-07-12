@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1715762851 source:c:\users\demma\documents\profit_calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1718535700 source:c:\users\demma\documents\tax calculator\main\tax_calculations.c
+	"tax_calculations.h"
+
+1718535278 c:\users\demma\documents\tax calculator\main\tax_calculations.h
+	"vehicle_types.h"
+
+1718535278 c:\users\demma\documents\tax calculator\main\vehicle_types.h
+
+1718535700 source:c:\users\demma\documents\tax calculator\main\main.c
+	<stdio.h>
+	"vehicle_types.h"
+	"tax_calculations.h"
+
+1718535700 source:c:\users\demma\documents\tax calculator\main\vehicle_types.c
+	<stdio.h>
+	"vehicle_types.h"
+

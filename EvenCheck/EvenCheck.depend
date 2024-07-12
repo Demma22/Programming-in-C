@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1720753613 source:c:\users\demma\documents\evencheck\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
